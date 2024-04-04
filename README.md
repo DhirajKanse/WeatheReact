@@ -1,3 +1,6 @@
+Welcome to WeatheReact!!!
+This is a web application developed using HTML, CSS, and JavaScript(React.js). Its main objective is to provide users with real-time weather information based on their geolocation or a search for any city.So lets start....
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
